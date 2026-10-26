@@ -8,3 +8,11 @@ Datenschutzerklärung das Datum „Stand“ oben in beiden Sprachen anpassen.
 
 Die App verlinkt auf `https://paidtowin.de/impressum/` und
 `https://paidtowin.de/datenschutz/` (englisch: `/en/imprint/`, `/en/privacy/`).
+
+## Pressemappe
+
+`/presse/` (deutsch) und `/en/press/` (englisch) mit Fakten, Beschreibung,
+Screenshots und Logos. Die Bilder für die Seite liegen verkleinert in
+`presse/bilder/`, die Originale in `presse/paid-to-win-pressemappe.zip`.
+Sobald die App im App Store ist: Store-Link oben auf beiden Seiten ergänzen
+und „Erscheinen“ in den Fakten auf das echte Datum ändern.
